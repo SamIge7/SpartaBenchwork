@@ -29,3 +29,5 @@ C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\List.
 C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorTargetAssemblyInfo.cs
 C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
 C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csproj.CopyComplete
+C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
