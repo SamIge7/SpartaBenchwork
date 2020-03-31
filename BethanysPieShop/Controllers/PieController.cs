@@ -22,6 +22,7 @@ namespace BethanysPieShop.Controllers
 
         public ViewResult List()
         {
+            ViewBag.CurrentCategory = "Cheesecakes";
             return View(_pieRepository.AllPies);
         }
     }

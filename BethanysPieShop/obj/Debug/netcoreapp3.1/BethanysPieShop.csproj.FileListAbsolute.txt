@@ -18,3 +18,14 @@ C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\staticwebassets\Betha
 C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.dll
 C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.pdb
 C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.genruntimeconfig.cache
+C:\SpartaBenchwork\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.Views.dll
+C:\SpartaBenchwork\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
+C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorAssemblyInfo.cache
+C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorAssemblyInfo.cs
+C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.TagHelpers.input.cache
+C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.TagHelpers.output.cache
+C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorCoreGenerate.cache
+C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\List.cshtml.g.cs
+C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorTargetAssemblyInfo.cs
+C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
+C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csproj.CopyComplete
