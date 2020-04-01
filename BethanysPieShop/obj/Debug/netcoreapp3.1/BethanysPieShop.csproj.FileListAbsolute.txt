@@ -65,3 +65,4 @@ C:\SpartaBenchwork\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrame
 C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csproj.CoreCompileInputs.cache
 C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.MvcApplicationPartsAssemblyInfo.cache
 C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
+C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
