@@ -66,3 +66,5 @@ C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.cspro
 C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.MvcApplicationPartsAssemblyInfo.cache
 C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
 C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
+C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
