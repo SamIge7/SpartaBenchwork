@@ -1,0 +1,9 @@
+C:\SpartaBenchwork\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.deps.json
+C:\SpartaBenchwork\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\SpartaBenchwork\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\SpartaBenchwork\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csprojAssemblyReference.cache
+C:\SpartaBenchwork\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\SpartaBenchwork\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\SpartaBenchwork\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfo.cs
+C:\SpartaBenchwork\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\SpartaBenchwork\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.pdb
