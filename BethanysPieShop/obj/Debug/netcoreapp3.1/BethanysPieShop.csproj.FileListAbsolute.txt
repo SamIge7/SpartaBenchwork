@@ -72,3 +72,4 @@ C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingC
 C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
 C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
 C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\SpartaBenchwork\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
