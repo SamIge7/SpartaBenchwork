@@ -24,10 +24,17 @@ namespace OdeToFood.Pages.Restaurants
             this.restaurantData = restaurantData;
             this.htmlHelper = htmlHelper;
         }
-        public IActionResult OnGet(int restaurantId)
+        public IActionResult OnGet(int? restaurantId)
         {
             Cuisines = htmlHelper.GetEnumSelectList<CuisineType>();
-            Restaurant = restaurantData.GetByID(restaurantId);
+            if (restaurantId.HasValue)
+            {
+                Restaurant = restaurantData.GetByID(restaurantId.Value);
+            }
+            else
+            {
+                Restaurant = new Restaurant();
+            }
             if(Restaurant == null)
             {
                 return RedirectToPage("./NotFound");
