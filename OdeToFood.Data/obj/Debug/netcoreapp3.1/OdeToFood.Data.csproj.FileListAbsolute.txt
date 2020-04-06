@@ -9,3 +9,7 @@ C:\SpartaBenchwork\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.Assembl
 C:\SpartaBenchwork\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CopyComplete
 C:\SpartaBenchwork\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.dll
 C:\SpartaBenchwork\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+C:\SpartaBenchwork\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.json
+C:\SpartaBenchwork\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.dev.json
+C:\SpartaBenchwork\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.genruntimeconfig.cache
+C:\SpartaBenchwork\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CoreCompileInputs.cache

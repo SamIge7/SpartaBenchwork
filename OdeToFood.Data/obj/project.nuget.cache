@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "b5U4sEGQEC3Vk65QVmneK3r+k7VrL34n4D86m0SYtxQuAV6WTe4SL1Owj6R9j7GMyfVEpPXfcMW6EORta2OyRw==",
+  "dgSpecHash": "Ia8YA26r4ax8Oi7XOmNT/8yM/GdQcGq71wiq7F4Lp5UEujnZtEdWjypiYocHDPpY95SMwrM0tGRmVnbqOQnzIw==",
   "success": true,
   "projectFilePath": "C:\\SpartaBenchwork\\OdeToFood.Data\\OdeToFood.Data.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\Sam\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.3\\microsoft.entityframeworkcore.design.3.1.3.nupkg.sha512",
     "C:\\Users\\Sam\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.3\\microsoft.entityframeworkcore.relational.3.1.3.nupkg.sha512",
     "C:\\Users\\Sam\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.3\\microsoft.entityframeworkcore.sqlserver.3.1.3.nupkg.sha512",
+    "C:\\Users\\Sam\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.3\\microsoft.entityframeworkcore.tools.3.1.3.nupkg.sha512",
     "C:\\Users\\Sam\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.3\\microsoft.extensions.caching.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\Sam\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.3\\microsoft.extensions.caching.memory.3.1.3.nupkg.sha512",
     "C:\\Users\\Sam\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",

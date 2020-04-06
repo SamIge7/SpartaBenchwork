@@ -144,3 +144,6 @@ C:\SpartaBenchwork\OdeToFood\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni
 C:\SpartaBenchwork\OdeToFood\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\SpartaBenchwork\OdeToFood\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\SpartaBenchwork\OdeToFood\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SpartaBenchwork\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\SpartaBenchwork\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CoreCompileInputs.cache
+C:\SpartaBenchwork\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
