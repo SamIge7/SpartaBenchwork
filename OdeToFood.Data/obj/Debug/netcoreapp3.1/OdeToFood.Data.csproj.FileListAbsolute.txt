@@ -4,7 +4,6 @@ C:\SpartaBenchwork\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
 C:\SpartaBenchwork\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
 C:\SpartaBenchwork\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
 C:\SpartaBenchwork\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csprojAssemblyReference.cache
-C:\SpartaBenchwork\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
 C:\SpartaBenchwork\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfoInputs.cache
 C:\SpartaBenchwork\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfo.cs
 C:\SpartaBenchwork\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CopyComplete
