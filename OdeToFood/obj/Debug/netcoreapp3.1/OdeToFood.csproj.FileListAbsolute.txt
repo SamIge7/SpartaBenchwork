@@ -147,3 +147,4 @@ C:\SpartaBenchwork\OdeToFood\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandar
 C:\SpartaBenchwork\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\SpartaBenchwork\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CoreCompileInputs.cache
 C:\SpartaBenchwork\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
+C:\SpartaBenchwork\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Delete.cshtml.g.cs
