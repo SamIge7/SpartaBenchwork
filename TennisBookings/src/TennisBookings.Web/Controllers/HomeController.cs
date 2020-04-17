@@ -6,6 +6,13 @@ namespace TennisBookings.Web.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly IWeatherForecaster _weatherForecaster;
+
+        public HomeController(IWeatherForecaster weatherForecaster)
+        {
+            _weatherForecaster = weatherForecaster;
+        }
+
         [Route("")]
         public IActionResult Index()
         {
