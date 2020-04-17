@@ -18,9 +18,8 @@ namespace TennisBookings.Web.Controllers
         {
             var viewModel = new HomeViewModel();
 
-            var weatherForecaster = new WeatherForecaster();
-            var currentWeather = weatherForecaster.GetCurrentWeather();
-            
+            var currentWeather = _weatherForecaster.GetCurrentWeather();
+
             switch (currentWeather.WeatherCondition)
             {
                 case WeatherCondition.Sun:
